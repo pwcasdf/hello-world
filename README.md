@@ -9,4 +9,4 @@ alsdjflkajsdfkljsa
 
 modified
 
-![pic](https://cloud.githubusercontent.com/pwcasdf/hello-world/master/a/1.jpg)
+![pic](https://github.com/libgit2/libgit2sharp/raw/master/square-logo.png)
