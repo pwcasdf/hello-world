@@ -9,4 +9,4 @@ alsdjflkajsdfkljsa
 
 modified
 
-![pic](hello-world/a/1.jpg)
+![pic](https://raw.githubusercontent.com/pwcasdf/hello-world/master/a/1.jpg)
